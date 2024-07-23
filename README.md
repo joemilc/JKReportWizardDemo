@@ -1,3 +1,5 @@
+(https://markdown.net.br/editor/)
+
 # JK Report Wizard
 
 ![Logo](https://github.com/joemilc/JKReportWizardDemo/blob/main/logo1.png "Logo")
@@ -52,3 +54,4 @@ Valor: **R$ 250,00** (válido até 31/08/2024)
 Banco: Santander
 Valor: R$ 300,00 (só use este após 31/08/2024)
 [qrcode2]
+
