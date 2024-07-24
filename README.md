@@ -7,7 +7,8 @@
 ## O que é o JK Report Wizard?
 É uma ferramenta para geração de relatorios, que permite que o pessoal do suporte, ou o usuário final crie seus próprios relatórios.\
 Com ele você pode criar varias consultas sql, e com base nessas consultas, o programa irá montar uma tela de filtro em runtime, e gerar o relatório.\
-Você pode criar inúmeros relatórios, com bandas Master, Detail e Subdetail.\ Inclusive, você pode usar mais de uma banda em um mesmo relatório.\
+Você pode criar inúmeros relatórios, com bandas Master, Detail e Subdetail.\
+Inclusive, você pode usar mais de uma banda em um mesmo relatório.\
 *Dá pra fazer agrupamentos, totalizadores, sumários.*
 
 ## Como funciona?
