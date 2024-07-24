@@ -20,11 +20,10 @@ O componente principal da geração do relatório é o FastReport, e já testamo
 - ZeosLib
 - FireDAC
 - DBX
-Ao final do texto, confira nosso roadmap sobre novas atualizações que estão sendo implantadas
 
 ## O que tem neste repositório?
 Aqui colocamos um demo para que você possa testar as funcionalidades da ferramenta. Tem um demo compilado com o Delphi 11 (usando UniDAC), e outro em Lazarus (usando ZeosLib). Ambos demos usam o FastReport.\
-A limitação da ferramenta é que ela só lista os primeiros 100 registros das tabelas.
+A limitação do demo é que ela só lista os primeiros 100 registros das tabelas.
 
 ## Quais bancos de dados posso utilizar?
 Nós fizemos testes nos principais bancos de dados free/opensource:
@@ -54,4 +53,6 @@ Após fazer a leitura, confira dos dados do pagto:
 - **Beneficiário: Joemil Cassio**
 - Banco: Santander
 - Valor: R$ 300,00 (só use este após 31/08/2024)
-[qrcode2]
+[qrcode2]\
+### Após o pagamento, me chama no zap que vou passar as instruções de como acessar o git, baixar os fontes, e te adicionar no grupo exclusivo do **JKReportWizard**
+# (66) 99616-7379
