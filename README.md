@@ -3,7 +3,7 @@
 # JK Report Wizard
 
 ![Logo](https://github.com/joemilc/JKReportWizardDemo/blob/main/jkrptwzrd.png "Logo")
-![DelphiLaz](https://github.com/joemilc/JKReportWizardDemo/blob/main/lazarus_delphi.png "DelphiLaz")
+![DelphiLaz](https://github.com/joemilc/JKReportWizardDemo/blob/main/lazarus_delphi2.png "DelphiLaz")
 ## O que é o JK Report Wizard?
 É uma ferramenta para geração de relatorios, que permite que o pessoal do suporte, ou o usuário final crie seus próprios relatórios.
 Com ele você pode criar varias consultas sql, e com base nessas consultas, o programa irá montar uma tela de filtro em runtime, e gerar o relatório.
