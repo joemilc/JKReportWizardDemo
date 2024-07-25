@@ -39,8 +39,8 @@ Então amigos, vejam os vídeos de apresentação no Youtube, baixem o demo, e q
 [Link da Playlist do JKReportWizard](https://www.youtube.com/playlist?list=PLNuUABMSGP_SJCSWMPFzbugMQLgaVZTPI "Link da Playlist do JKReportWizard")
 
 ## Como Testar
-Na pasta onde vc extraiu os arquivos, tem alguns arquivos .sql, cada um referente a um banco de dados. Execute ele no seu banco de dados de testes, para que o demo possoa criar as tabelas usadas pelo JKReportWizard.\
-Após isso, execute o demo, faça as configurações referentes ao seu banco de dados, e faça a conexão e já comece a criar os seus relatórios.
+Na pasta onde você extraiu os arquivos, tem alguns arquivos **.sql**, cada um referente a um banco de dados. Execute ele no seu banco de dados de testes, para criar as tabelas usadas pelo JKReportWizard.\
+Após isso, execute o demo, faça as configurações referentes ao seu banco de dados, faça a conexão e já comece a criar os seus relatórios.
 
 ## Como adiquirir os fontes
 Se você gostou da ferramenta, que tal comprar os fontes? Assim você pode personalizar as telas, adicionar controle de acesso dos usuários, e modificar de acordo com suas necessidades.\
