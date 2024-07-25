@@ -49,12 +49,14 @@ Vou deixar aqui dois QRCodes para compra. O primeiro é com desconto do lançame
 ## QRCode Promocional
 Após fazer a leitura, confira dos dados do pagto:
 - **Beneficiário: Joemil Cassio**
+- Chave: joemilc@gmail.com
 - Banco: Santander
 - Valor: **R$ 250,00** (válido até 31/08/2024)
 [qrcode1]
 
 ## QRCode com valor normal
 - **Beneficiário: Joemil Cassio**
+- Chave: joemilc@gmail.com
 - Banco: Santander
 - Valor: R$ 300,00 (só use este após 31/08/2024)
 [qrcode2]\
