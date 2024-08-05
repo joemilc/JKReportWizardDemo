@@ -44,21 +44,14 @@ Após isso, execute o demo, faça as configurações referentes ao seu banco de 
 
 ## Como adiquirir os fontes
 Se você gostou da ferramenta, que tal comprar os fontes? Assim você pode personalizar as telas, adicionar controle de acesso dos usuários, e modificar de acordo com suas necessidades.\
-Vou deixar aqui dois QRCodes para compra. O primeiro é com desconto do lançamento, e tem validade até 31/08/2024. Já o segundo é o preço normal, que será praticado após essa data.
 
-## QRCode Promocional
-Após fazer a leitura, confira dos dados do pagto:
 - **Beneficiário: Joemil Cassio**
 - Chave: joemilc@gmail.com
 - Banco: Santander
-- Valor: **R$ 250,00** (válido até 31/08/2024)
-[qrcode1]
+- Licença Individual: **R$ 250,00** (pra um computador/programador)
+- Licença Adicional: **R$ 50,00** (pra cada computador/programador adicional)
 
-## QRCode com valor normal
-- **Beneficiário: Joemil Cassio**
-- Chave: joemilc@gmail.com
-- Banco: Santander
-- Valor: R$ 300,00 (só use este após 31/08/2024)
-[qrcode2]\
+**OBS: a licença é vitalícia, e você recebe todas as atualizações**
+
 ### Após o pagamento, me chama no zap que vou passar as instruções de como acessar o git, baixar os fontes, e te adicionar no grupo exclusivo do **JKReportWizard**
 # (66) 99616-7379
