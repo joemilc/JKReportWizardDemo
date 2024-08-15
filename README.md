@@ -48,7 +48,7 @@ Se você gostou da ferramenta, que tal comprar os fontes? Assim você pode perso
 - **Beneficiário: Joemil Cassio**
 - Chave: joemilc@gmail.com
 - Banco: Santander
-- Licença: **R$ 300,00** (pra um computador/programador)
+- Licença: **R$ 300,00**
 
 **OBS: a licença é vitalícia, e você recebe todas as atualizações**
 
