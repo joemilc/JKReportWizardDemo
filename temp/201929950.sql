@@ -1,1 +1,0 @@
-SELECT * FROM jk_fields WHERE posicao is not null AND id_report = 4 ORDER BY posicao

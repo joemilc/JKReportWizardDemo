@@ -1,1 +1,0 @@
-SELECT * FROM jk_reports ORDER BY relatorio
