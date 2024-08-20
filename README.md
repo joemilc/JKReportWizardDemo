@@ -1,5 +1,3 @@
-(https://markdown.net.br/editor/)
-
 # JK Report Wizard
 
 ![Logo](https://github.com/joemilc/JKReportWizardDemo/blob/main/jkrptwzrd.png "Logo")\
