@@ -44,7 +44,7 @@ Após isso, execute o demo, faça as configurações referentes ao seu banco de 
 Se você gostou da ferramenta, que tal comprar os fontes? Assim você pode personalizar as telas, adicionar controle de acesso dos usuários, e modificar de acordo com suas necessidades.\
 
 - **Beneficiário: Joemil Cassio**
-- Chave: joemilc@gmail.com
+- Chave Pix (Celular): 66996167379
 - Banco: Santander
 - Licença: **R$ 300,00**
 
