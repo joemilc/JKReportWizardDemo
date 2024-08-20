@@ -17,7 +17,7 @@ O componente principal da geração do relatório é o FastReport, e já testamo
 - UniDAC
 - ZeosLib
 - FireDAC
-- DBX
+- Caso você utiliza outro conector, me chama no whats pra que possamos ver a possibilidade de adicionar ele aos fontes
 
 ## O que tem neste repositório?
 Aqui colocamos um demo para que você possa testar as funcionalidades da ferramenta. Tem um demo compilado com o Delphi 11 (usando UniDAC), e outro em Lazarus (usando ZeosLib). Ambos demos usam o FastReport.\
