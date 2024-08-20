@@ -1,0 +1,1 @@
+SELECT * FROM receber LIMIT 0

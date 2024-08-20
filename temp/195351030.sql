@@ -1,0 +1,1 @@
+SELECT * FROM vendas LIMIT 0

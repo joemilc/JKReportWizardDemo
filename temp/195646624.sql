@@ -1,0 +1,1 @@
+SELECT * FROM jk_fields WHERE id_report = 4 AND field_filtro = 'N' AND posicao IS NOT NULL ORDER BY posicao
