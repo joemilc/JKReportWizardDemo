@@ -1,5 +1,3 @@
-# JK Report Wizard
-
 ![Logo](https://github.com/joemilc/JKReportWizardDemo/blob/main/jkrptwzrd.png "Logo")\
 ![DelphiLaz](https://github.com/joemilc/JKReportWizardDemo/blob/main/lazarus_delphi2.png "DelphiLaz")
 ## O que é o JK Report Wizard?
